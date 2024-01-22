@@ -5,3 +5,5 @@ Feel free to make changes wherever!
 New Change!
 
 Another new change!
+
+Added logout feature button
